@@ -1,0 +1,20 @@
+{
+  "name": "simple-server",
+  "version": "1.0.0",
+  "description": "simple server powered by nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo hello nodejs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "skynet@github.com:demo.git"
+  },
+  "keywords": [
+    "server",
+    "web",
+    "node"
+  ],
+  "author": "skynet gu",
+  "license": "ISC"
+}
