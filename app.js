@@ -11,7 +11,7 @@ const server = http.createServer((req, res) => {
   res.writeHead(200, "OK OK OK", {
     "Content-Type": "text/plain; charset=UTF-8",
   });
-  res.end("Hello 你好啊");
+  res.end("Hello 你好欧!");
 });
 
 server.listen(PORT, HOSTNAME, () => {
